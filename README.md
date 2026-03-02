@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**padukaleo/padukaleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#padukaleo
+Front end & Tool Builder
 
-Here are some ideas to get you started:
+I build clean web interfaces and small useful tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##focus
+  Wedding & Love Story Website
+  E-commerce UI
+  interactive Chemistry Tools
+
+##stack
+React · C++ · Python
+
+---
+
+
