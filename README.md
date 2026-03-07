@@ -1,16 +1,15 @@
 
 #padukaleo
-Front end & Tool Builder
+Front end developer
 
-I build clean web interfaces and small useful tools
+I build clean web interfaces 
 
 ##focus
 -  Wedding & Love Story Website
--  E-commerce UI
--  interactive Chemistry Tools
+
 
 ##stack
-React · C++ · Python
+React · 
 
 ---
 
