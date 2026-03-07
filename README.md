@@ -9,7 +9,7 @@ I build clean web interfaces
 
 
 ##stack
-React · 
+React · Next.js · Tailwind CSS · TypeScript
 
 ---
 
