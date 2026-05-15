@@ -43,6 +43,6 @@ status:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=padukaleo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000 />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=padukaleo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
 
 </div>
