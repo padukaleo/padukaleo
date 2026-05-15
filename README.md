@@ -33,7 +33,16 @@ status:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,pytjon,nodejs,tailwindcss,vscode,git" />
+<img src="https://skillicons.dev/icons?i=react,ts,python,nodejs,tailwindcss,vscode,github" />
 
 </div>
 
+---
+
+## Github Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=padukaleo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000 />
+
+</div>
