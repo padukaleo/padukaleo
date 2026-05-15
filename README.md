@@ -1,16 +1,10 @@
+<div align="center">
+  <img src="file_000000002788722fba107320992114b3.png" width=100% />
 
-#padukaleo
-Front end developer
+  # Leo
 
-I build clean web interfaces 
+  ```txt
+Terrifying debugging sessions
+```
 
-##focus
--  Wedding & Love Story Website
-
-
-##stack
-React · Next.js · Tailwind CSS · TypeScript
-
----
-
-
+</div>
